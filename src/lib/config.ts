@@ -5,7 +5,7 @@ import { join } from "path";
 export const APP_NAME = "thecatapi";
 
 /** CLI binary name (replaced during api2cli create) */
-export const APP_CLI = "thecatapi-cli";
+export const APP_CLI = "unofficial-catapi-cli";
 
 /** API base URL (replaced during api2cli create) */
 export const BASE_URL = "https://api.thecatapi.com/v1";

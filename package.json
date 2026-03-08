@@ -1,10 +1,10 @@
 {
-  "name": "thecatapi-cli",
-  "version": "0.1.1",
-  "description": "CLI for the thecatapi API",
+  "name": "unofficial-catapi-cli",
+  "version": "0.2.0",
+  "description": "Unofficial CLI for The Cat API — search cat images, browse breeds, vote, and more",
   "type": "module",
   "bin": {
-    "thecatapi-cli": "./dist/index.js"
+    "unofficial-catapi-cli": "./dist/index.js"
   },
   "scripts": {
     "build": "bun build src/index.ts --outfile dist/index.js --target bun",

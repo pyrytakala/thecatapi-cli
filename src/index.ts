@@ -11,8 +11,8 @@ import { factsResource } from "./resources/facts.js";
 const program = new Command();
 
 program
-  .name("thecatapi-cli")
-  .description("CLI for The Cat API — search cat images, browse breeds, vote, and more")
+  .name("unofficial-catapi-cli")
+  .description("Unofficial CLI for The Cat API — search cat images, browse breeds, vote, and more")
   .version("0.1.0")
   .option("--json", "Output as JSON", false)
   .option("--format <fmt>", "Output format: text, json, csv, yaml", "text")
