@@ -1,6 +1,8 @@
 # thecatapi-cli
 
-CLI for The Cat API. Made with [api2cli.dev](https://api2cli.dev).
+Unofficial CLI for [The Cat API](https://thecatapi.com). Made with [api2cli.dev](https://api2cli.dev).
+
+> **Note:** This is a community-maintained project and is not officially affiliated with or endorsed by The Cat API.
 
 ## Install
 
